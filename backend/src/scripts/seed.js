@@ -40,7 +40,7 @@ const seed = async () => {
       description: 'Gastronomie marocaine authentique.',
       address: 'Ain Diab',
       category: 'Gastronomie marocaine',
-      image_url: 'https://example.com/darnaji.jpg',
+      image_url: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a7/44/e2/healthy-burger-au-camembert.jpg?w=900&h=-1&s=1',
       average_prep_time: 40
     });
 
